@@ -11,9 +11,14 @@ dependencies = [
     "black>=26.10.1",
     "isort>=9.0.2",
     "langchain>=1.4.10",
+    "langchain-firecrawl>=0.1.0",
     "langchain-ollama>=1.1.0",
     "langchain-openai>=1.7.4",
+    "langchain-tavily>=0.2.18",
+    "pydantic>=2.14.3",
     "python-dotenv>=1.2.4",
+    "tavily-python>=0.8.5",
+    "typing>=3.10.0.0",
 ]
 
 [project.scripts]
